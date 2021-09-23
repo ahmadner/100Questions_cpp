@@ -16,7 +16,7 @@
 14. [Write a c++ Program to accept a string in any case and print it by another case.](https://github.com/ahmadner/100Questions_cpp/blob/main/14.cpp)
 15. [Write C++ Program to check whether a given number is perfect or not.](https://github.com/ahmadner/100Questions_cpp/blob/main/15.cpp)
 16. [Write C++ Program to print table of any number](https://github.com/ahmadner/100Questions_cpp/blob/main/16.cpp)
-17. [Write C++ Program to read ‘n’ number and print them in matrix terms in all orders.](https://github.com/ahmadner/100Questions_cpp/blob/main/17.cpp)
+17. [Entering and printing the rows, columns, and elements of an array.](https://github.com/ahmadner/100Questions_cpp/blob/main/17.cpp)
 18. [Write C++ Program to accept two numbers and print the sum of given two numbers by using pointers](https://github.com/ahmadner/100Questions_cpp/blob/main/18.cpp)
 19. [Write a c++ Program to accept a string in upper case and print it by lower case.](https://github.com/ahmadner/100Questions_cpp/blob/main/19.cpp)
 20. [Write a c++ Program to accept any single digit number and print it in words.](https://github.com/ahmadner/100Questions_cpp/blob/main/20.cpp)
