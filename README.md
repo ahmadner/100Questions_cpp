@@ -1,7 +1,7 @@
 # 100Questions_cpp
 
 Contents
-1. [Write a simple program to print your name, class.] (https://github.com/ahmadner/100Questions_cpp/blob/main/1.cpp)
+1. [Write a simple program to print your name, class.]: https://github.com/ahmadner/100Questions_cpp/blob/main/1.cpp
 2. Write C++ program to calculate sum of two numbers
 3. Write C++ Program to print your name 100 times.
 4. Write C++ program to swap two numbers using macros
