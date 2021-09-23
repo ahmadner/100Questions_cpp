@@ -2,7 +2,6 @@
 
 // input : HelLO UsEr
 // output: hello user
-
 #include <iostream>
 using namespace std;
 int main(){
