@@ -76,7 +76,7 @@
 74. [Write a C++ program to find cube of a number using macros.](https://github.com/ahmadner/100Questions_cpp/blob/main/74.cpp)
 75. [Write a C++ program to multiply two matrices.](https://github.com/ahmadner/100Questions_cpp/blob/main/75.cpp)
 76. [Write a C++ program to insert an element in an array.](https://github.com/ahmadner/100Questions_cpp/blob/main/76.cpp)
-77. [Write a C++ program to find largest and second largest no from a 2D array.78. Write a C++ program to do linear search in Array.](https://github.com/ahmadner/100Questions_cpp/blob/main/77.cpp)
+77. [Write a C++ program to find largest and second largest no from a 2D array.](https://github.com/ahmadner/100Questions_cpp/blob/main/77.cpp)
 78. [Write a C++ program to do linear search in Array.](https://github.com/ahmadner/100Questions_cpp/blob/main/78.cpp)
 79. [Write a C++ Program to find element in Array using Binary search](https://github.com/ahmadner/100Questions_cpp/blob/main/79.cpp)
 80. [Write a C++ Program to find highest and lowest element of a Matrix.](https://github.com/ahmadner/100Questions_cpp/blob/main/80.cpp)
