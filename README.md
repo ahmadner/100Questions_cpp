@@ -24,7 +24,7 @@
 22. [Write C++ program to find largest number of a list of numbers entered through keyboard](https://github.com/ahmadner/100Questions_cpp/blob/main/22.cpp)
 23. [Write C++ Program to calculate and print the sum of even and odd integers of the first n natural numbers.](https://github.com/ahmadner/100Questions_cpp/blob/main/23.cpp)
 24. [Write C++ Program to find area of a triangle when there sides are given.](https://github.com/ahmadner/100Questions_cpp/blob/main/24.cpp)
-25. [Write C++ Program to find whether a number is divisible by ‘11’ or not without actual division.](https://github.com/ahmadner/100Questions_cpp/blob/main/25.cpp)
+25. [Write C++ Program to find whether a number is divisible by ‘11’ or not.](https://github.com/ahmadner/100Questions_cpp/blob/main/25.cpp)
 26. [Write C++ Program to check whether a number is prime number or not](https://github.com/ahmadner/100Questions_cpp/blob/main/26.cpp)
 27. [Write C++ Program to print following series using function: x + x^3/3! + x^5/5!+.......+ x^n/n!](https://github.com/ahmadner/100Questions_cpp/blob/main/27.cpp)
 28. [Write C++ program to find sum of series 1 + 2 + 3 +......+ n](https://github.com/ahmadner/100Questions_cpp/blob/main/28.cpp)
