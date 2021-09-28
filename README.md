@@ -28,7 +28,7 @@
 26. [Write C++ Program to check whether a number is prime number or not](https://github.com/ahmadner/100Questions_cpp/blob/main/26.cpp)
 27. [Write a C++ program to draw an equilateral triangle with the number of rows entered](https://github.com/ahmadner/100Questions_cpp/blob/main/27.cpp)
 28. [Write C++ program to find sum of series 1 + 2 + 3 +......+ n](https://github.com/ahmadner/100Questions_cpp/blob/main/28.cpp)
-29. [Write C++ program to find sum of series 1/2+4/5+7/8+......](https://github.com/ahmadner/100Questions_cpp/blob/main/29.cpp)
+29. [Write a C++ program to find the triple root of a number using function](https://github.com/ahmadner/100Questions_cpp/blob/main/29.cpp)
 30. [Write C++ program to find sum of series 1+x+x^2+......+x^n](https://github.com/ahmadner/100Questions_cpp/blob/main/30.cpp)
 31. [Write C++ program to find sum of series 1^2+3^2+5^2+......+n^2.](https://github.com/ahmadner/100Questions_cpp/blob/main/31.cpp)
 32. [Write C++ Program to print given series:1 2 4 8 16 32 64 128](https://github.com/ahmadner/100Questions_cpp/blob/main/32.cpp)
